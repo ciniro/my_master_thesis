@@ -4,6 +4,6 @@ Neste repositório estão contidos diversos tipos de estudos gráficos relaciona
 NAMETALA, CINIRO A. L. Construção de um Robô Investidor baseado em Redes Neurais Artificiais e Preditores Econométricos. 2017. 181 f. Dissertação (Mestrado em Engenharia Elétrica) - Departamento de Engenharia Elétrica, Universidade Federal de Minas Gerais, Belo Horizonte, 2017.
 
 ---------------
-This repository contains several types of graphic studies related to the dissertation entitled "CONSTRUCTION OF AN INVESTOR ROBOT BASED ON NEURAL ARTIFICIAL NETWORKS AND ECONOMETRIC PREDICTORS". The text was submitted to the Graduate Program in Electrical Engineering at the Federal University of Minas Gerais and approved in January 2017. If you use any of the materials contained here, please use the following reference:
+This repository contains several types of graphic studies related to the dissertation entitled "CONSTRUCTION OF AN INVESTOR ROBOT BASED ON NEURAL ARTIFICIAL NETWORKS AND ECONOMETRIC PREDICTORS". The text was submitted to the Program in Electrical Engineering at the Federal University of Minas Gerais and approved in January 2017. If you use any of the materials contained here, please use the following reference:
 
 NAMETALA, CINIRO A. L. Construction of an Investor Robot based on Artificial Neural Networks and Econometric Predictors. 2017. 181 f. Dissertation (Master in Electrical Engineering) - Department of Electrical Engineering, Federal University of Minas Gerais, Belo Horizonte, 2017.
